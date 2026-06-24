@@ -1,7 +1,7 @@
 # how-to-push
-git init
-git remote add origin git@github.com:lakekimhandsome/REPOSITORY_NAME.git
-git add .
-git commit -m "First commit"
-git branch -M main
-git push -u origin main
+git init\n
+git remote add origin git@github.com:lakekimhandsome/REPOSITORY_NAME.git\n
+git add .\n
+git commit -m "First commit"\n
+git branch -M main\n
+git push -u origin main\n
